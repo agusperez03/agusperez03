@@ -48,9 +48,19 @@
 - :technologist: I love using Software as a solution for every `Problem`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`
+- :construction_worker: SQL Freelancer at [Fiverr](https://www.fiverr.com/agusperez03)
 - 📫 Feel free to reach me out **agustinpereh03@gmail.com**
 <br>
-<a href="https://www.linkedin.com/in/agusperezs/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<h2 align="center">
+  <a href="https://www.linkedin.com/in/agusperezs/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" width="100" height="25">
+  </a>
+</h2>
+
+
+
+
+
 
 <!--Intro end-->
 
