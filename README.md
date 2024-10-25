@@ -27,7 +27,11 @@
 
 
 <p>
-        At 21, I am completing my fourth year of studying <strong>Systems Engineering</strong> and am excited to start my professional journey. I am deeply interested in <strong>artificial intelligence</strong> and <strong>machine learning</strong>, aiming to specialize in these areas. My goal is to immerse myself in dynamic projects and make valuable contributions to the tech community. I am dedicated to continuous learning and professional growth, seeking opportunities that align with my passion for advancing technology and making a meaningful impact in the field. </p>
+I am 21 years old and I am finishing my Systems Engineering studies at UNICEN - Tandil, Argentina.
+
+I am currently working in the Tandil Integrated Public Health System to contribute to an interoperability project using REST API. At the same time I am doing my thesis on machine learning applied to multi-agent systems.
+
+I consider myself passionate about what I do and I have a great willingness and speed to learn new topics. </p>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
