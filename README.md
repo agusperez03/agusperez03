@@ -46,11 +46,11 @@ I’m passionate about technology and artificial intelligence as drivers of mean
 
 <!--Intro start-->
 <br><br>
-- :student: I am studying Systems Engineering at [UNICEN](https://www.unicen.edu.ar).
+- :student: Working on my thesis about RL at [UNICEN](https://www.unicen.edu.ar).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`
-- :construction_worker: SQL Freelancer at [Fiverr](https://www.fiverr.com/agusperez03)
+- :thinking: Open to new `job opportunities`
+- :construction_worker: E-commerce development - Spring Framework API Development - SQL Freelancer at [Fiverr](https://www.fiverr.com/agusperez03)
 - 📫 Feel free to reach me out **agustinpereh03@gmail.com**
 <br>
 <h2 align="center">
