@@ -19,7 +19,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Systems Engineering Student</h2></summary>
+    <summary><h2 style="display: inline-block">Systems Engineer</h2></summary>
   </ul>
 </div>
 
@@ -27,11 +27,9 @@
 
 
 <p>
-I am 21 years old and I am finishing my Systems Engineering studies at UNICEN - Tandil, Argentina.
+I’m currently part of the development team at Región Global, where I build E-commerce solutions. At the same time, I’m working on my thesis, focused on applying machine learning in multi-agent systems — exploring how intelligent agents can learn, adapt, and collaborate in dynamic environments.
 
-I am currently working in the Tandil Integrated Public Health System to contribute to an interoperability project using REST API. At the same time I am doing my thesis on machine learning applied to multi-agent systems.
-
-I consider myself passionate about what I do and I have a great willingness and speed to learn new topics. </p>
+I’m passionate about technology and artificial intelligence as drivers of meaningful change. I enjoy learning new tools, tackling technical challenges, and working on projects that combine automation, data, and intelligent decision-making. I'm eager to keep growing in the AI field and contribute to innovative solutions that make a real impact. </p>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -42,7 +40,7 @@ I consider myself passionate about what I do and I have a great willingness and 
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,cpp,html,css,js,postgres,mongodb,flutter,github,git,vscode,linux&perline=14" />
+    <img src="https://skillicons.dev/icons?i=py,java,azure,tensorflow,pytorch,postgres,mongodb,html,css,js,spring,git,vscode,linux&perline=14" />
   </a>
 </p>
 
