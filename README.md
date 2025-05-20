@@ -19,7 +19,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Systems Engineer</h2></summary>
+    <summary><h2 style="display: inline-block">Systems Engineer - AI Passionate</h2></summary>
   </ul>
 </div>
 
