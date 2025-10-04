@@ -24,10 +24,10 @@
 </a>
 </p>
 
-Systems Engineer | Backend & AI Specialist 🚀
-I'm a Systems Engineer from Tandil, Argentina 🇦🇷, with a strong focus on Backend development and Artificial Intelligence. I'm passionate about building scalable and efficient solutions that solve real-world problems. My experience ranges from creating RESTful APIs with Java and Spring Boot to customizing e-commerce and ERP solutions.
+Software Engineer | Backend & AI Specialist 🚀
+I'm a Software Engineer from Tandil, Argentina 🇦🇷, with a strong focus on Backend development and Artificial Intelligence. I'm passionate about building scalable and efficient solutions that solve real-world problems. My experience ranges from leading AI innovation in e-commerce to engineering end-to-end RESTful APIs with Java and Spring Boot.
 
-My thesis on autonomous agents using Machine Learning allowed me to delve deeper into reinforcement learning and data analysis, and I'm always looking for new challenges to apply my knowledge.
+My thesis on autonomous agents using Machine Learning allowed me to delve deeper into reinforcement learning and data analysis, and I'm always learning the latest AI technologies and looking for new challenges to apply my knowledge.
 
 💻 My Tech Stack
 <p align="left">
